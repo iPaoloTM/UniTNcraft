@@ -38,7 +38,7 @@ public class BlockPane extends StackPane {
         this.imgv.setFitWidth(50);
         this.imgv.setFitHeight(50);
 
-        //this.getChildren().add(this.imgv);
+        this.getChildren().add(this.imgv);
 
     }
 
